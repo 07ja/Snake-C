@@ -11,3 +11,6 @@
 
 ## Todo
 - Implementing collision with the snake itself
+
+## Demo
+![Snake Demo](misc/Snake-C.gif)
